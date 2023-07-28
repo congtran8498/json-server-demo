@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "title": "Đá bóng",
+      "status": true,
+      "id": 1
+    },
+    {
+      "title": "Làm bài tập",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "Đi chơi",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "đi mua sắm",
+      "status": false,
+      "id": 4
+    }
+  ]
+}
